@@ -1,3 +1,7 @@
 [submodule "node1"]
 	path = node1
 	url = https://github.com/vimalrajut/node1.git
+[submodule "node2"]
+	path = node2
+	url = https://github.com/vimalrajut/node2.git
+	branch = master
